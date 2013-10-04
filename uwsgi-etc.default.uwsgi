@@ -1,8 +1,0 @@
-# Default settings for uwsgi. This file is sourced by /usr/local/bin/uwsgi from /etc/init.d/uwsgi.
-#Gracefuly provided by setup-web2py-nginx-uwsgi-debian7.sh 
-
-
-# Options to pass to /etc/init.d/uwsgi
-CONFIG_DIR="/etc/uwsgi/"
-LOG_FILE="/var/log/uwsgi/uwsgi.log"
-
